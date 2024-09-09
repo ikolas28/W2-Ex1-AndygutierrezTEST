@@ -1,0 +1,36 @@
+body {
+  border-style: solid;
+  border-color: green;
+  background-color: powderblue;
+}
+body h1 {
+  color: blue;
+  text-align: center;
+  font-size: 40px !important;
+}
+img {
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+}
+
+.my-element {
+  text-align: center;
+  margin-top: 20px;
+  list-style-position: inside;
+  font-size: 18px;
+}
+
+.signature-line {
+  background-color: blueviolet;
+  color: antiquewhite;
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+}
